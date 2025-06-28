@@ -1,0 +1,28 @@
+﻿  ArgSpoofing.c
+C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(40,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+      C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(40,10):
+      consider using '%lld' in the format string
+      C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(40,10):
+      consider using '%Id' in the format string
+      C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(40,10):
+      consider using '%I64d' in the format string
+  
+C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(34,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(56,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+      C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(56,10):
+      consider using '%lld' in the format string
+      C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(56,10):
+      consider using '%Id' in the format string
+      C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(56,10):
+      consider using '%I64d' in the format string
+  
+C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(52,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(151,29): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(151,29): warning C4024: 'HeapFree': different types for formal and actual parameter 2
+C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(152,29): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(152,29): warning C4024: 'HeapFree': different types for formal and actual parameter 2
+C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(163,19): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(73,16): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(81,14): warning C4047: 'initializing': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\ArgSpoofing\ArgSpoofing.c(179,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  ArgSpoofing.vcxproj -> C:\Users\MALWER\Desktop\ProjectMalwer\MalDev-Academy\MalDev-Academy\MalDev Modules\Devalober\ArgSpoofing\x64\Debug\ArgSpoofing.exe
